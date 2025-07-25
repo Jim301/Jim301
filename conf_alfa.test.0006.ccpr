@@ -2,10 +2,10 @@
     <application>
         <displayname>pivot</displayname>
         <ccz-url>file:///sdcard/Download/AgentCommunautairev3509.ccz</ccz-url>
-        <build-version>latest</build-version>
+        <build-version>1</build-version>
     </application>
     <server>
         <username>alfa.test.0006</username>
-        <password>1234</password>
+        <password>1234</password>
     </server>
 </profile>
